@@ -1,0 +1,1339 @@
+﻿age,sex,home,bmi,children,smoker,drinking,past claims
+49,female,Kowloon,32.3,2,no,no,72433
+55,female,South NT,29.5,2,no,occasional,79358
+53,female,North NT,26,0,no,frequent,67628
+19,male,Hong Kong Island,33.2,0,no,occasional,7020
+59,male,Hong Kong Island,36.5,1,no,frequent,82368
+33,female,Kowloon,18,2,yes,no,116844
+42,female,Kowloon,40.8,1,no,frequent,48702
+24,female,Kowloon,25.4,0,no,occasional,20245
+42,female,Kowloon,31.7,0,no,occasional,48343
+24,male,Kowloon,33,4,no,frequent,115371
+29,female,South NT,34.4,0,no,no,22773
+29,female,Kowloon,29.9,0,no,occasional,25656
+42,male,Hong Kong Island,33.4,0,no,occasional,38405
+40,male,North NT,25.6,1,no,occasional,41265
+38,female,North NT,29.6,3,no,frequent,48176
+41,male,North NT,36.3,2,no,occasional,47764
+27,male,South NT,28.4,0,yes,occasional,124939
+42,male,Kowloon,23.4,2,yes,occasional,147351
+39,female,South NT,23.2,5,no,occasional,56109
+27,female,Kowloon,29.3,1,no,occasional,115419
+63,female,South NT,35,0,no,occasional,95092
+19,male,North NT,16.4,0,no,no,11143
+21,male,North NT,23.2,2,no,frequent,16759
+27,male,South NT,32.5,0,no,occasional,15965
+18,male,Kowloon,26.2,1,yes,occasional,118861
+62,female,North NT,29.3,2,no,no,104175
+28,male,South NT,22.7,3,yes,occasional,121270
+42,female,Hong Kong Island,24.2,1,no,no,48845
+52,male,Kowloon,31,3,no,occasional,79116
+50,male,Hong Kong Island,33.6,2,yes,frequent,295881
+49,female,Hong Kong Island,20.1,1,no,occasional,62351
+38,female,Kowloon,27.3,2,no,frequent,45210
+49,female,South NT,42,2,no,occasional,64895
+22,male,Kowloon,19.3,3,no,frequent,23998
+49,male,North NT,25.3,2,yes,frequent,161854
+43,female,Kowloon,24.5,0,no,frequent,46628
+27,male,South NT,22,0,no,no,17020
+51,female,Kowloon,32.7,0,no,occasional,67488
+40,female,North NT,40.3,1,no,no,199095
+24,female,North NT,23,0,no,occasional,18028
+41,female,Hong Kong Island,36,2,no,no,51379
+37,male,North NT,28.9,0,no,occasional,31711
+35,female,South NT,33.6,1,no,frequent,32042
+19,male,North NT,19.8,0,no,frequent,6798
+44,male,Hong Kong Island,36,2,no,no,54160
+44,male,North NT,31.3,2,no,occasional,53841
+38,female,North NT,18.4,2,no,no,48207
+44,male,South NT,29.5,2,no,occasional,52706
+24,female,South NT,22.1,0,no,occasional,174510
+59,female,Kowloon,31.8,3,no,frequent,97929
+64,female,Hong Kong Island,30.6,2,yes,occasional,327656
+29,female,Kowloon,21.1,0,yes,occasional,109399
+37,female,Hong Kong Island,46.5,2,yes,no,322244
+33,male,North NT,22.1,0,no,frequent,149694
+60,male,North NT,23.3,0,no,no,87519
+60,female,South NT,37.5,0,no,frequent,83943
+37,female,Hong Kong Island,28.3,2,no,occasional,42785
+32,female,Hong Kong Island,23.9,0,yes,occasional,119013
+30,female,North NT,22.6,3,yes,no,131211
+30,female,Hong Kong Island,31.7,1,no,occasional,25720
+19,female,North NT,30.7,1,no,no,18091
+22,female,Kowloon,22.5,0,no,occasional,15897
+58,male,South NT,31.4,1,no,frequent,79598
+19,male,South NT,29.1,0,yes,occasional,226645
+19,female,North NT,36,0,no,frequent,9992
+39,male,North NT,21.1,1,no,occasional,39988
+53,male,South NT,30.2,0,no,occasional,190197
+57,female,Hong Kong Island,19.4,1,no,occasional,80961
+42,male,North NT,30.1,0,no,occasional,43347
+53,female,Kowloon,21.8,3,yes,occasional,171235
+31,female,Hong Kong Island,23,2,no,frequent,29652
+56,male,North NT,32.9,0,no,occasional,74324
+30,female,South NT,32.1,1,no,occasional,27603
+22,female,Kowloon,33.3,2,no,occasional,25223
+37,male,Hong Kong Island,29.2,0,no,frequent,138238
+45,male,North NT,35.9,2,yes,frequent,294658
+34,female,Hong Kong Island,32.6,1,no,no,34294
+18,female,Kowloon,29.5,0,no,frequent,11298
+64,male,Kowloon,25.4,0,no,no,100699
+46,male,North NT,29.4,3,yes,no,284284
+53,male,Hong Kong Island,35.3,3,no,occasional,76529
+38,female,Hong Kong Island,33.5,2,no,occasional,43882
+45,female,Hong Kong Island,25.1,3,no,frequent,58978
+55,female,South NT,34.5,0,yes,occasional,307144
+47,female,Hong Kong Island,31.2,1,no,occasional,56997
+64,male,Hong Kong Island,33.8,0,no,occasional,93669
+58,male,Kowloon,29.7,0,no,occasional,79570
+63,male,South NT,33.9,0,yes,occasional,328347
+54,male,Kowloon,39.5,3,yes,no,339822
+46,male,South NT,41.3,3,yes,no,322998
+19,male,Hong Kong Island,34.1,0,yes,occasional,240011
+57,male,Kowloon,27.8,0,yes,occasional,189508
+19,male,North NT,29.9,0,no,frequent,7413
+58,female,North NT,32.4,0,no,no,85290
+45,female,South NT,28,2,no,frequent,54908
+30,female,South NT,37.9,3,yes,occasional,285499
+29,female,North NT,30.9,2,no,occasional,32552
+50,male,North NT,29.9,3,no,no,73542
+38,male,Kowloon,36.5,1,no,frequent,37872
+47,male,North NT,18.5,1,no,no,58559
+24,male,South NT,35.1,0,no,occasional,10909
+31,male,Hong Kong Island,25.3,3,yes,frequent,129410
+52,male,South NT,25.2,3,no,occasional,180793
+26,male,Hong Kong Island,29.4,1,no,frequent,15654
+49,male,Kowloon,30.6,1,no,occasional,61974
+53,female,North NT,36.2,3,yes,occasional,322784
+18,female,Kowloon,28,0,no,occasional,50209
+32,female,Hong Kong Island,29.2,2,no,frequent,31966
+28,female,North NT,22.5,2,no,occasional,30575
+50,female,Kowloon,43.5,0,no,occasional,65066
+53,male,North NT,27.7,0,no,occasional,67992
+19,male,North NT,29.9,0,no,occasional,8076
+18,male,Kowloon,14.8,0,no,no,11236
+24,female,Hong Kong Island,21.4,0,no,occasional,15290
+54,male,Hong Kong Island,28.5,1,no,occasional,69258
+36,male,North NT,30.3,1,no,frequent,32906
+20,male,Kowloon,26.7,0,no,occasional,12130
+57,female,Kowloon,27.6,4,no,occasional,99114
+36,male,Hong Kong Island,30.8,0,no,occasional,27137
+55,female,Kowloon,28.8,0,no,no,78785
+18,male,South NT,34.5,1,no,occasional,8649
+42,male,Hong Kong Island,26.2,0,no,occasional,38403
+52,male,North NT,36.1,2,no,occasional,181878
+45,female,North NT,29.8,1,yes,occasional,274920
+50,female,North NT,27.4,3,no,occasional,74454
+54,female,South NT,31.3,3,no,frequent,187016
+64,female,Hong Kong Island,32.6,1,yes,occasional,333716
+34,male,South NT,41.6,2,no,frequent,31020
+64,male,Hong Kong Island,24.5,2,no,no,104735
+55,male,Hong Kong Island,36.5,0,no,occasional,141910
+63,female,North NT,25.7,0,yes,occasional,200413
+39,female,Kowloon,21.6,3,no,occasional,54109
+42,female,North NT,25.9,0,yes,occasional,146441
+55,male,Kowloon,34.6,1,no,occasional,75899
+22,female,Hong Kong Island,23.5,0,no,occasional,12118
+22,male,South NT,36.8,1,yes,occasional,257383
+35,female,Hong Kong Island,29.8,1,no,occasional,34964
+18,male,South NT,36.6,0,no,occasional,4056
+33,male,North NT,23.8,2,no,occasional,34286
+32,female,Kowloon,36.6,3,no,frequent,39476
+38,male,Kowloon,27,1,no,no,42409
+31,male,South NT,29.1,0,yes,occasional,132088
+18,male,South NT,37.6,0,yes,frequent,249469
+29,male,South NT,26.7,0,no,occasional,18656
+40,male,North NT,30.2,4,no,occasional,53440
+19,female,Hong Kong Island,19.4,0,no,occasional,10733
+21,male,Hong Kong Island,29.9,0,no,occasional,8905
+61,male,North NT,37.7,0,no,occasional,87322
+18,male,Kowloon,16,2,yes,occasional,87527
+34,male,Kowloon,33.6,0,no,no,31364
+46,female,Hong Kong Island,30.1,3,no,occasional,62670
+31,male,Kowloon,27.9,5,no,frequent,42598
+31,female,South NT,28.1,1,no,occasional,29451
+18,female,Kowloon,29.4,0,no,occasional,145827
+37,male,Hong Kong Island,33,4,yes,no,280936
+60,male,Kowloon,27.4,0,no,occasional,210006
+59,female,South NT,27.1,3,no,occasional,94526
+61,female,Kowloon,35.1,1,yes,occasional,337351
+45,female,Hong Kong Island,32.5,0,no,frequent,46941
+57,male,North NT,32.8,0,no,occasional,77977
+47,female,North NT,28.4,1,no,no,61629
+27,female,Hong Kong Island,33.6,1,no,occasional,23678
+61,female,South NT,32.5,4,no,occasional,253485
+31,male,North NT,30,3,no,no,37509
+22,male,North NT,24.1,0,no,no,14056
+25,male,Hong Kong Island,26.2,3,no,frequent,23085
+53,female,Hong Kong Island,26.1,2,no,frequent,73605
+18,male,South NT,21.1,2,no,occasional,79458
+61,male,Hong Kong Island,35.1,1,yes,occasional,330749
+53,male,Hong Kong Island,35.3,1,no,occasional,67897
+39,female,Kowloon,22.6,3,no,occasional,52221
+31,female,North NT,31.9,1,no,occasional,30263
+64,female,Kowloon,38.8,0,no,frequent,99401
+57,female,Kowloon,33.1,2,no,occasional,91476
+59,male,Kowloon,23.5,0,no,occasional,84628
+30,female,South NT,41.9,2,no,occasional,31713
+56,male,Kowloon,30.9,1,no,occasional,80945
+45,female,Kowloon,37.7,0,no,frequent,50680
+18,female,Kowloon,30.8,4,no,frequent,27209
+45,male,Hong Kong Island,27.6,2,no,no,55259
+22,male,North NT,30.9,0,no,occasional,12484
+48,female,South NT,32.7,0,no,frequent,53368
+19,female,Hong Kong Island,24,0,no,occasional,8290
+21,female,North NT,34.6,0,no,no,16240
+40,male,Kowloon,31.6,1,yes,occasional,272278
+62,female,Hong Kong Island,32.6,0,no,frequent,90166
+18,male,South NT,42.4,0,no,frequent,3533
+51,female,Kowloon,40.1,0,no,frequent,64443
+59,male,South NT,31,2,no,occasional,87770
+57,female,South NT,23.4,1,no,frequent,151126
+18,female,South NT,36.2,0,yes,frequent,248744
+20,male,South NT,30,2,no,no,17497
+41,female,South NT,29.8,0,no,occasional,41551
+22,female,Kowloon,29.2,0,no,occasional,18105
+57,female,South NT,24.5,2,no,occasional,86455
+56,male,South NT,30.6,2,yes,occasional,305496
+47,female,South NT,36,1,yes,occasional,296845
+31,female,South NT,35.6,2,no,no,34577
+18,male,Kowloon,25.5,0,no,frequent,7904
+40,male,Hong Kong Island,34.6,3,no,occasional,46497
+48,female,Hong Kong Island,22.1,0,no,occasional,54148
+18,female,South NT,37,0,no,occasional,9354
+25,male,South NT,24.4,0,no,occasional,12529
+56,female,North NT,25.4,1,no,occasional,83226
+38,male,South NT,37.7,3,yes,occasional,290139
+36,male,Kowloon,27.3,1,yes,occasional,142585
+56,female,Kowloon,27.7,0,no,frequent,77301
+41,male,South NT,20.5,1,no,occasional,41963
+56,female,Kowloon,28.1,0,no,occasional,77928
+59,male,South NT,28.6,2,no,no,89944
+32,female,North NT,16.5,2,yes,occasional,227264
+46,male,North NT,25.1,3,no,frequent,60612
+51,female,South NT,32.9,0,no,occasional,63042
+57,male,South NT,39.7,0,no,frequent,72852
+42,male,North NT,27,3,yes,occasional,227261
+50,male,Kowloon,31.5,2,no,frequent,173245
+25,female,South NT,41.5,1,no,frequent,18277
+44,male,North NT,24.8,1,no,frequent,47949
+38,female,South NT,27.7,1,no,occasional,39695
+64,male,South NT,23.2,0,yes,frequent,183707
+62,female,Kowloon,37.5,2,no,frequent,101910
+23,female,Kowloon,23,2,no,occasional,155202
+35,male,Kowloon,26.5,2,yes,occasional,145468
+63,male,Hong Kong Island,29.6,0,no,occasional,92444
+62,male,South NT,30.3,1,no,occasional,187916
+42,female,Hong Kong Island,28.3,1,no,occasional,46326
+36,male,South NT,28.5,0,no,occasional,28881
+51,male,South NT,22.1,1,yes,no,155281
+39,male,Kowloon,41.5,0,no,occasional,39008
+49,female,North NT,34.1,1,no,occasional,63315
+51,female,Kowloon,36.5,3,yes,frequent,318964
+58,male,Hong Kong Island,37.4,0,no,frequent,74970
+41,female,Hong Kong Island,31.6,1,no,frequent,42783
+23,female,South NT,32.1,2,yes,occasional,248299
+60,female,North NT,23.4,0,no,frequent,86761
+54,female,South NT,46.8,0,yes,frequent,442160
+32,male,North NT,32.6,1,no,occasional,29573
+25,male,North NT,26.3,0,no,occasional,15363
+29,male,North NT,30.7,2,no,no,30874
+23,male,Kowloon,23.9,0,no,frequent,12551
+43,male,Kowloon,26.1,3,no,occasional,58078
+55,male,Kowloon,29.5,0,yes,no,295158
+20,male,South NT,34.1,1,no,occasional,192314
+39,female,South NT,33.1,5,no,occasional,58078
+26,male,South NT,34.3,0,no,no,15434
+41,female,Kowloon,31,1,no,occasional,47662
+26,male,Hong Kong Island,31.7,2,yes,occasional,251377
+35,male,Hong Kong Island,37.5,1,no,no,32775
+64,male,South NT,35.9,2,yes,no,346823
+42,male,North NT,25.7,1,no,frequent,44210
+52,female,Kowloon,29.6,1,no,occasional,74392
+21,male,Hong Kong Island,24.5,4,yes,occasional,124522
+31,male,Kowloon,25.8,1,no,no,30336
+50,female,Kowloon,26.7,0,no,frequent,175387
+34,female,South NT,28,3,no,occasional,41637
+24,male,Hong Kong Island,25,0,no,occasional,11114
+57,male,Kowloon,39.5,0,no,occasional,142063
+48,female,South NT,31,1,no,occasional,60023
+19,male,Hong Kong Island,27.6,0,no,no,7827
+51,male,South NT,29.4,1,no,occasional,61939
+58,male,South NT,47.8,0,no,occasional,77731
+30,male,South NT,31,3,no,frequent,29329
+19,female,Hong Kong Island,16.7,0,no,no,11795
+54,female,Kowloon,27.6,2,no,occasional,82436
+45,female,South NT,31.1,0,no,occasional,122367
+43,male,Hong Kong Island,27.1,0,yes,occasional,261760
+21,female,South NT,38.9,0,no,frequent,9743
+46,male,Hong Kong Island,25,5,no,occasional,68040
+30,female,South NT,27.1,1,yes,occasional,134511
+40,male,Kowloon,21.9,2,no,occasional,47669
+46,female,Kowloon,31.5,2,no,occasional,63197
+49,male,Kowloon,21.9,0,no,frequent,56649
+23,male,Hong Kong Island,36,3,no,no,25107
+43,male,North NT,28.9,3,no,occasional,57095
+28,female,South NT,25.9,2,no,frequent,26159
+33,female,Hong Kong Island,17.4,1,no,no,32542
+41,male,South NT,35,1,yes,occasional,278796
+48,female,North NT,36,0,no,frequent,56071
+25,male,North NT,23,0,yes,no,110218
+37,female,North NT,33.4,1,no,occasional,39141
+36,female,South NT,29.1,0,no,occasional,31610
+33,female,North NT,26,0,no,occasional,28834
+32,male,South NT,36.5,2,no,occasional,28857
+31,female,Kowloon,29.8,3,no,occasional,39380
+53,female,Hong Kong Island,26.8,3,no,occasional,80135
+25,male,Kowloon,24.2,2,no,occasional,159807
+35,female,South NT,34.6,2,no,occasional,38459
+48,male,Kowloon,30.7,1,no,occasional,59305
+58,male,Hong Kong Island,34.6,0,no,no,79053
+57,female,South NT,28.6,0,yes,occasional,191080
+31,male,South NT,38.2,1,no,occasional,24930
+34,male,North NT,34.7,0,no,no,29397
+47,male,North NT,27.5,3,yes,occasional,171306
+46,male,Kowloon,32.1,1,no,occasional,56546
+27,male,Hong Kong Island,29.3,0,no,occasional,15854
+20,male,Kowloon,29.9,0,yes,occasional,231480
+54,female,Kowloon,31.1,1,no,occasional,78641
+32,female,Hong Kong Island,40,0,no,no,27779
+49,female,Hong Kong Island,31.3,5,no,frequent,76647
+50,male,Hong Kong Island,31.5,2,no,occasional,64820
+43,female,Hong Kong Island,25.6,2,yes,no,157309
+44,male,North NT,38.7,0,no,occasional,46097
+32,female,North NT,32.4,3,no,occasional,39768
+38,female,North NT,39.8,1,no,occasional,41406
+23,male,Kowloon,30.6,3,yes,occasional,252156
+18,male,Kowloon,38.5,0,no,occasional,86347
+45,male,Kowloon,22.8,2,no,occasional,58042
+43,female,South NT,31.3,3,yes,occasional,284482
+20,female,Hong Kong Island,21.2,0,yes,frequent,137101
+48,female,South NT,32.4,0,yes,occasional,283038
+27,female,South NT,22,1,no,occasional,23450
+35,male,South NT,27,1,no,frequent,28830
+38,female,Kowloon,19.4,2,no,frequent,45150
+45,male,South NT,23.5,5,no,occasional,65801
+43,male,South NT,34.6,2,no,occasional,127879
+22,female,North NT,19.1,0,no,no,17011
+48,male,South NT,39.1,0,no,no,54230
+42,female,Kowloon,32.6,1,no,frequent,49024
+23,female,Hong Kong Island,30.3,0,yes,no,238716
+53,female,Kowloon,32.1,0,no,occasional,72470
+47,male,Hong Kong Island,35.4,1,no,occasional,53524
+55,female,Hong Kong Island,26.2,1,no,frequent,241219
+59,female,North NT,25.6,3,no,no,100631
+59,male,Kowloon,29.2,3,yes,occasional,207479
+28,female,South NT,31.9,2,no,no,30211
+37,female,South NT,37.6,0,yes,occasional,280344
+29,female,Hong Kong Island,24.3,4,no,occasional,37858
+43,female,North NT,33.9,1,no,occasional,50650
+23,female,Kowloon,41.6,1,yes,no,285679
+53,female,North NT,24.1,1,no,occasional,73264
+31,male,Kowloon,27,2,no,frequent,30978
+49,male,Hong Kong Island,27.5,1,no,occasional,59916
+19,female,Hong Kong Island,17.8,0,no,occasional,9458
+27,female,North NT,30,1,no,occasional,25521
+62,male,Kowloon,31.4,0,no,occasional,91103
+50,male,North NT,24.7,2,no,occasional,208386
+56,female,South NT,41.1,0,no,occasional,74877
+20,female,North NT,27.8,0,no,occasional,14543
+34,male,Hong Kong Island,31.7,1,no,no,99635
+23,male,South NT,25.8,0,no,occasional,9482
+54,female,South NT,30.4,0,no,occasional,69848
+26,male,Hong Kong Island,22.9,2,no,occasional,21683
+28,male,North NT,29.8,0,no,no,20980
+42,female,South NT,39.1,2,yes,occasional,305457
+58,female,South NT,40.7,0,no,occasional,167803
+49,male,South NT,35.7,0,no,occasional,55757
+57,male,Kowloon,17.1,0,no,occasional,78591
+29,male,South NT,37.8,1,no,occasional,22978
+41,male,North NT,29.9,2,no,occasional,47288
+51,male,North NT,23.7,4,no,occasional,77085
+45,female,Kowloon,38.9,3,no,no,67583
+28,male,Hong Kong Island,35.3,1,yes,no,358083
+19,female,Hong Kong Island,39.3,0,no,occasional,10398
+42,male,Hong Kong Island,34.7,2,no,no,49324
+56,male,Kowloon,25.3,0,no,frequent,73944
+61,female,Hong Kong Island,42.9,0,no,no,91267
+19,male,North NT,24.4,0,no,occasional,10300
+46,male,Kowloon,38.2,1,no,occasional,56437
+61,male,North NT,27.7,1,yes,frequent,197871
+51,female,North NT,36,2,no,occasional,72536
+40,male,South NT,23.9,0,no,occasional,36695
+51,male,Kowloon,31.7,1,no,frequent,65107
+19,male,North NT,31.4,0,yes,frequent,231407
+37,male,South NT,36.3,1,yes,occasional,276433
+19,female,Hong Kong Island,26.7,0,yes,occasional,116554
+62,male,North NT,26.9,1,no,occasional,93889
+25,female,Kowloon,27.5,0,no,no,22243
+60,male,North NT,30.2,3,yes,no,322237
+63,female,South NT,34.4,1,no,occasional,98442
+47,female,Kowloon,32.6,0,no,occasional,142957
+63,female,Kowloon,26.9,0,yes,occasional,204140
+50,female,South NT,27,3,no,occasional,73606
+18,female,South NT,38.6,0,no,frequent,6675
+58,male,South NT,35.4,0,no,occasional,76197
+18,female,South NT,41.1,0,yes,no,271052
+20,female,South NT,30.7,0,no,occasional,9771
+60,female,Hong Kong Island,28.1,1,no,frequent,87877
+45,male,Hong Kong Island,33,1,no,occasional,48315
+18,female,Kowloon,32.6,0,no,frequent,10613
+26,female,North NT,39.6,0,no,frequent,17751
+28,male,South NT,31,0,yes,occasional,239483
+24,female,North NT,29,3,no,occasional,31081
+32,male,Hong Kong Island,30.8,1,no,occasional,24784
+19,male,Hong Kong Island,23.8,1,no,occasional,10014
+25,female,South NT,33.4,1,no,frequent,17841
+40,female,Kowloon,26.9,1,yes,occasional,154592
+35,male,North NT,23.5,1,no,frequent,31497
+21,female,Hong Kong Island,33.9,0,no,occasional,11087
+52,female,South NT,23.7,0,no,occasional,188334
+35,male,North NT,17.1,1,no,occasional,32716
+46,female,North NT,23.1,1,yes,frequent,147087
+45,male,North NT,21.6,2,yes,occasional,145588
+33,female,South NT,39.1,1,no,occasional,30305
+54,male,Hong Kong Island,30.5,0,no,no,68006
+33,female,South NT,23.6,0,no,occasional,26219
+57,male,Hong Kong Island,27,0,no,no,76355
+62,male,North NT,30.3,3,yes,frequent,322072
+31,female,Kowloon,30.5,0,no,frequent,26078
+23,female,Kowloon,33.6,0,no,occasional,18511
+38,female,South NT,29.5,1,no,occasional,40306
+19,female,North NT,24.6,1,no,occasional,17530
+52,male,Kowloon,23.7,3,yes,occasional,170098
+48,female,Hong Kong Island,27.7,0,no,occasional,56383
+23,male,Hong Kong Island,34,1,no,occasional,15363
+36,female,Kowloon,21.5,3,no,occasional,46786
+62,female,Kowloon,35.7,1,no,no,220723
+39,female,South NT,40.6,0,no,occasional,38122
+26,female,Kowloon,28.4,4,no,occasional,170765
+50,female,North NT,25.6,2,no,occasional,69578
+29,female,South NT,38,3,no,occasional,33331
+51,male,South NT,34.8,1,no,occasional,64695
+28,male,Hong Kong Island,23.5,5,no,occasional,36324
+28,female,Hong Kong Island,26.3,2,no,occasional,139504
+24,male,South NT,31.2,0,no,occasional,11275
+47,male,South NT,46.8,1,no,occasional,53225
+26,female,Kowloon,16.1,2,yes,no,101174
+26,male,North NT,30.5,0,no,frequent,13994
+26,female,Kowloon,28.1,0,no,occasional,19820
+48,male,Kowloon,34.5,4,no,no,74885
+56,male,Hong Kong Island,35.3,3,no,occasional,83741
+27,female,Hong Kong Island,22.8,0,no,occasional,18797
+37,female,South NT,25.2,0,yes,occasional,134889
+19,female,Hong Kong Island,20.6,0,yes,no,96147
+18,female,South NT,25.5,0,no,occasional,9992
+20,male,Hong Kong Island,38.2,2,yes,occasional,266494
+24,male,Kowloon,27.3,0,yes,occasional,244183
+39,male,Kowloon,28.8,1,yes,no,156535
+60,male,Hong Kong Island,27.7,0,no,occasional,83607
+18,male,Kowloon,27.8,0,no,occasional,8139
+44,female,South NT,31.2,1,no,occasional,52090
+63,female,South NT,36.2,0,no,occasional,93508
+25,male,South NT,32.7,2,yes,frequent,248828
+18,female,Kowloon,38,2,no,occasional,20329
+20,female,North NT,30.6,0,no,occasional,13581
+34,female,North NT,36.1,2,no,occasional,39973
+30,male,South NT,38.2,1,no,frequent,128449
+37,male,North NT,23,2,no,occasional,40927
+47,female,South NT,44.6,1,no,occasional,56928
+25,female,Hong Kong Island,19.7,1,no,no,22040
+19,male,Hong Kong Island,33.4,0,no,occasional,4887
+19,female,North NT,29.4,2,no,no,167474
+26,male,Hong Kong Island,19.6,0,no,occasional,14934
+53,male,Kowloon,32.9,0,yes,occasional,301104
+27,male,Kowloon,24.9,0,no,occasional,20412
+36,female,South NT,28,4,no,no,50461
+119,female,North NT,21.4,0,no,no,14336
+54,female,Hong Kong Island,21.7,3,no,occasional,82268
+28,female,South NT,32.5,0,no,frequent,17947
+45,male,South NT,29.7,0,yes,frequent,433900
+39,female,North NT,25.7,2,no,occasional,46455
+40,female,North NT,31.7,2,yes,no,279513
+52,female,North NT,23.4,1,yes,occasional,163979
+34,male,Kowloon,21.4,2,no,no,191581
+33,male,Hong Kong Island,26.4,1,yes,occasional,130087
+27,female,Kowloon,31.3,1,no,no,131480
+43,female,Kowloon,24,1,yes,occasional,150395
+28,male,Kowloon,21.3,2,no,occasional,29298
+35,female,Kowloon,22.9,2,no,frequent,39903
+45,female,Hong Kong Island,34,0,no,occasional,49322
+47,male,Kowloon,24.4,2,no,no,64560
+42,female,Kowloon,22.8,0,yes,frequent,134764
+33,male,South NT,34.5,2,no,occasional,31901
+56,male,Hong Kong Island,20.9,0,no,occasional,72120
+22,female,South NT,30.3,3,yes,occasional,245554
+61,female,Hong Kong Island,38.4,,no,occasional,95669
+42,male,Kowloon,25.4,2,no,occasional,51147
+48,female,Kowloon,31.1,2,no,occasional,68380
+21,male,South NT,30.3,0,no,occasional,112784
+23,female,South NT,27.4,1,yes,no,127883
+18,male,South NT,29.3,1,no,occasional,9017
+19,female,Hong Kong Island,28.7,0,no,no,12037
+54,female,North NT,20.9,3,no,frequent,82865
+56,female,Kowloon,27.9,0,no,occasional,77678
+33,male,South NT,41.8,1,no,occasional,75762
+52,female,Kowloon,37.1,2,no,occasional,77477
+29,female,South NT,29,1,no,frequent,22759
+47,female,Hong Kong Island,23,1,no,frequent,55734
+36,male,North NT,33.1,1,no,occasional,34161
+28,female,North NT,25.3,1,no,frequent,24649
+48,male,South NT,36.6,2,no,occasional,58939
+62,female,North NT,31.6,0,no,no,96213
+37,male,Hong Kong Island,30.2,0,no,frequent,27576
+34,female,North NT,25.8,1,no,frequent,32812
+29,male,Hong Kong Island,34.9,2,yes,frequent,308021
+22,male,Kowloon,27.8,0,no,no,15236
+36,male,Kowloon,41.3,3,yes,frequent,302117
+20,male,Kowloon,29.5,5,no,frequent,30036
+39,male,North NT,23.2,2,no,occasional,44685
+37,female,North NT,22.2,2,no,occasional,45307
+28,male,South NT,36.8,0,no,occasional,16399
+23,male,North NT,16.6,1,no,occasional,16608
+38,male,Hong Kong Island,29.7,1,no,occasional,36370
+19,male,North NT,36.4,0,yes,frequent,248864
+18,female,South NT,30.4,0,no,occasional,7784
+40,female,Kowloon,24.2,1,no,occasional,47262
+24,female,Kowloon,19.4,0,yes,occasional,101003
+54,female,Hong Kong Island,45.4,2,no,occasional,78490
+18,male,Kowloon,20.9,0,no,frequent,7131
+24,male,Kowloon,30.3,0,yes,occasional,237195
+54,male,North NT,29,0,no,occasional,70249
+42,male,Hong Kong Island,28.9,0,yes,no,154900
+21,male,Kowloon,25.3,0,no,occasional,11718
+64,female,Hong Kong Island,39.1,0,no,frequent,95922
+44,male,Kowloon,29,2,no,occasional,221707
+18,female,Kowloon,31.3,0,no,frequent,10710
+19,male,North NT,26.7,0,no,no,10807
+61,male,Hong Kong Island,42.3,0,no,no,87280
+19,male,Hong Kong Island,34.2,0,no,occasional,7261
+26,male,North NT,17,0,no,frequent,14681
+43,male,Hong Kong Island,22.4,0,no,occasional,41000
+21,female,Hong Kong Island,24.7,0,no,no,13125
+50,male,North NT,31.5,0,no,occasional,58857
+64,female,North NT,31.7,0,no,occasional,100527
+38,female,Kowloon,26.2,1,no,no,45375
+35,female,South NT,42.7,2,no,occasional,37314
+26,female,Hong Kong Island,19,1,no,occasional,20966
+31,male,North NT,27.9,1,no,occasional,26519
+39,male,Kowloon,25.1,0,yes,occasional,138588
+40,female,Kowloon,22.3,3,no,no,57667
+63,female,North NT,23.8,0,no,occasional,97659
+53,female,North NT,36.7,1,no,occasional,73870
+40,male,Kowloon,40.4,1,no,occasional,43623
+31,female,Hong Kong Island,24.6,2,no,occasional,33496
+36,male,Kowloon,26.8,3,no,occasional,44713
+21,male,South NT,35.7,0,no,no,9800
+49,female,South NT,40.4,4,no,no,76717
+57,female,Hong Kong Island,28,0,no,occasional,76620
+49,female,South NT,26.1,0,no,no,60166
+53,female,Kowloon,23.2,2,no,frequent,77311
+52,female,Kowloon,22.5,0,no,occasional,67790
+38,male,South NT,27.1,1,no,no,37635
+41,female,South NT,27.4,1,no,frequent,43305
+57,male,Hong Kong Island,22.6,0,no,no,76183
+48,male,South NT,28.5,0,no,occasional,53362
+39,male,Hong Kong Island,27.6,1,yes,occasional,144115
+44,female,Hong Kong Island,24.6,1,no,occasional,52258
+49,male,Kowloon,24.6,1,no,occasional,62825
+51,male,North NT,30.5,0,no,no,63294
+24,male,Hong Kong Island,31.5,0,yes,occasional,239966
+43,male,South NT,19,2,yes,no,130687
+55,female,South NT,40.1,3,no,occasional,83839
+57,male,North NT,32.4,1,no,occasional,82089
+21,female,North NT,31.6,2,no,no,181368
+41,male,South NT,33.1,1,no,no,43337
+22,female,South NT,27,0,no,no,15043
+64,male,Kowloon,37.1,0,no,no,100267
+35,female,Hong Kong Island,27.1,3,no,frequent,40183
+29,male,Hong Kong Island,33.1,0,yes,occasional,250935
+48,male,Kowloon,29.6,3,no,occasional,69822
+55,female,Hong Kong Island,29.2,0,no,occasional,72857
+30,male,Hong Kong Island,30.2,1,no,occasional,23678
+53,male,Hong Kong Island,20.7,1,no,occasional,66844
+25,male,Kowloon,24.7,1,no,no,22547
+63,female,Kowloon,22,0,no,no,101087
+19,male,Hong Kong Island,32.5,0,no,frequent,156877
+56,female,South NT,39.3,0,no,frequent,72662
+18,female,South NT,20.2,0,no,frequent,6841
+19,male,Hong Kong Island,19.5,0,no,occasional,7345
+58,male,Hong Kong Island,22.2,0,no,no,78736
+36,female,North NT,29.5,0,no,frequent,32054
+48,male,Hong Kong Island,27.3,1,yes,occasional,161498
+20,male,North NT,27.4,1,yes,frequent,118322
+19,male,Hong Kong Island,19.7,1,no,occasional,11355
+21,female,Kowloon,20.8,1,yes,no,107393
+60,male,North NT,23.1,1,no,occasional,90088
+61,male,South NT,30.4,0,no,occasional,86406
+22,male,Hong Kong Island,38.2,0,no,occasional,9671
+18,male,South NT,22,0,no,occasional,5773
+47,female,South NT,28.1,1,no,occasional,58075
+24,male,Kowloon,29.2,0,yes,frequent,125896
+42,female,South NT,28.8,2,no,occasional,49570
+30,male,Hong Kong Island,37.1,2,yes,occasional,271066
+56,female,Hong Kong Island,35,1,no,occasional,78808
+32,male,North NT,27.6,0,no,occasional,24803
+29,male,Kowloon,28.5,1,no,no,141278
+64,female,North NT,29.5,3,no,occasional,111286
+20,male,Kowloon,39.4,0,no,no,13696
+30,female,North NT,27.7,1,no,occasional,28048
+18,female,South NT,39.2,0,no,frequent,6837
+49,male,Hong Kong Island,24.3,2,yes,occasional,160750
+38,female,South NT,39,0,no,no,36947
+62,male,Hong Kong Island,20.1,0,no,occasional,88536
+21,male,Hong Kong Island,21.2,1,no,no,13736
+18,female,Kowloon,39,0,no,no,14613
+26,female,Hong Kong Island,41.7,1,no,occasional,20064
+44,male,Hong Kong Island,29.1,2,yes,no,272495
+19,female,North NT,30.8,0,no,occasional,12773
+62,female,South NT,28.7,0,no,occasional,92146
+61,male,South NT,34.8,0,yes,no,325720
+38,female,South NT,37,0,no,occasional,34383
+18,male,South NT,31,2,yes,frequent,236024
+34,male,Hong Kong Island,30.2,0,yes,frequent,243751
+34,male,North NT,24.5,1,no,occasional,31424
+51,female,North NT,17.3,0,no,occasional,64835
+44,male,Hong Kong Island,26.1,2,no,occasional,51717
+57,female,North NT,31.2,0,no,occasional,79003
+64,female,South NT,38,3,no,no,112141
+52,male,Hong Kong Island,37.8,2,no,occasional,69425
+52,male,South NT,47.1,1,no,frequent,63658
+48,male,Hong Kong Island,28.9,0,no,occasional,145557
+52,female,Kowloon,30.1,0,no,occasional,158697
+38,male,South NT,20.4,3,no,occasional,42790
+45,female,Kowloon,23.9,2,no,occasional,61895
+56,female,Hong Kong Island,26.4,0,no,occasional,74600
+21,female,South NT,33.6,0,no,occasional,12150
+35,male,Hong Kong Island,25.9,1,no,occasional,31793
+52,male,North NT,32.2,3,no,frequent,74460
+61,male,Kowloon,22.4,0,no,occasional,89942
+33,female,Hong Kong Island,37.6,3,no,occasional,39648
+36,female,Kowloon,27.2,0,no,frequent,33499
+18,female,Kowloon,25,0,no,occasional,13136
+58,female,Hong Kong Island,23.9,0,no,occasional,80524
+44,female,South NT,22.7,2,no,occasional,55219
+31,male,Kowloon,29.7,0,no,occasional,25917
+24,female,South NT,26.5,0,no,occasional,15552
+49,female,Kowloon,30.1,1,no,occasional,65224
+60,male,South NT,31.9,3,no,occasional,96227
+44,male,South NT,36.9,1,no,occasional,48638
+46,male,Hong Kong Island,26.5,0,no,no,172020
+36,female,North NT,25.6,0,no,occasional,34926
+24,male,North NT,25.6,1,no,occasional,87192
+19,male,Hong Kong Island,19.1,0,no,occasional,5059
+60,male,Hong Kong Island,38.8,0,yes,no,336566
+21,male,North NT,36.1,0,no,occasional,10588
+24,female,Hong Kong Island,26.8,0,no,occasional,129820
+43,male,South NT,34.8,3,yes,occasional,293247
+51,male,Hong Kong Island,36.3,0,no,occasional,57832
+29,male,North NT,31.6,2,no,frequent,26108
+43,female,North NT,23.5,2,yes,occasional,151258
+45,male,South NT,19.2,3,no,no,59578
+39,male,South NT,32.9,2,no,occasional,163488
+20,female,Kowloon,29.5,0,no,no,16994
+46,female,North NT,18.9,2,no,no,64335
+48,male,North NT,31.7,1,no,frequent,57021
+39,female,Hong Kong Island,17.1,5,yes,occasional,131720
+19,female,North NT,36.8,0,no,frequent,10521
+49,male,South NT,36.9,2,no,frequent,60882
+46,female,Hong Kong Island,33.3,1,yes,occasional,289582
+58,male,Kowloon,24,0,no,no,82748
+27,female,South NT,35,0,yes,no,259731
+43,female,North NT,30.1,2,no,frequent,53494
+61,male,Kowloon,32.8,0,no,occasional,89036
+32,female,Kowloon,30.8,1,no,occasional,33311
+42,male,South NT,36.5,2,no,occasional,46598
+44,male,Kowloon,30.3,1,yes,no,276815
+28,male,Kowloon,25.8,2,no,no,30230
+22,male,South NT,35.9,2,yes,occasional,261195
+50,female,Hong Kong Island,24.4,0,no,occasional,61327
+21,male,North NT,27.9,0,no,no,12604
+59,male,South NT,25.1,0,no,occasional,79888
+44,male,South NT,33.2,1,no,no,49372
+54,male,Kowloon,23.4,0,no,occasional,69011
+64,female,Kowloon,30.6,2,no,occasional,110282
+26,female,Hong Kong Island,33,2,no,occasional,26590
+54,female,North NT,34.6,3,no,occasional,85897
+59,female,Kowloon,25.8,0,no,occasional,85934
+20,female,Hong Kong Island,28.5,0,no,no,12647
+55,male,South NT,31.7,0,no,occasional,143454
+56,male,Kowloon,18.7,0,yes,occasional,155300
+18,male,South NT,22.6,1,no,occasional,9101
+47,female,North NT,26.5,2,yes,no,170775
+32,female,South NT,27.7,0,no,occasional,26452
+59,female,North NT,30.8,0,no,frequent,83644
+35,male,Kowloon,39.1,4,no,frequent,131929
+32,female,South NT,22.9,1,no,occasional,119999
+23,male,Hong Kong Island,32,3,no,occasional,21272
+27,female,Hong Kong Island,30.1,0,yes,occasional,241655
+27,male,Hong Kong Island,44.7,2,no,occasional,24101
+18,female,South NT,26.6,3,yes,frequent,123548
+36,female,Hong Kong Island,25,0,no,occasional,32529
+42,female,South NT,24.9,1,no,occasional,47053
+50,male,North NT,25.9,0,no,frequent,56798
+54,male,South NT,29.7,1,yes,no,293389
+40,female,Hong Kong Island,26.7,1,no,occasional,42410
+47,male,North NT,29.2,3,no,occasional,63633
+59,female,South NT,35.3,1,no,occasional,196365
+35,male,South NT,33.2,3,no,no,41076
+47,female,Kowloon,23.1,0,no,occasional,57740
+34,female,Kowloon,18.2,3,no,occasional,44293
+52,female,North NT,17.1,0,no,occasional,67669
+42,female,North NT,24.4,2,no,frequent,51855
+20,male,North NT,31.3,1,no,no,15830
+60,female,Kowloon,34.9,0,no,no,92122
+39,female,Hong Kong Island,33.4,3,no,occasional,48447
+52,male,Hong Kong Island,35.9,0,no,occasional,61250
+37,male,North NT,29.6,3,no,occasional,45742
+45,female,South NT,27.2,2,no,frequent,55154
+64,male,South NT,38.1,1,no,no,100511
+51,male,Kowloon,26.6,1,no,occasional,68376
+47,male,South NT,35.5,1,yes,frequent,290753
+32,male,Kowloon,32.5,1,yes,no,262286
+40,female,Hong Kong Island,28.4,0,no,occasional,39998
+49,male,North NT,31.1,3,no,occasional,69998
+19,female,Hong Kong Island,22.2,2,no,occasional,19317
+60,male,Kowloon,28.4,0,no,occasional,86936
+30,male,Hong Kong Island,23.7,3,yes,occasional,123980
+58,female,North NT,26.4,0,no,occasional,82788
+37,female,Kowloon,16,2,no,occasional,46023
+39,male,South NT,44.3,2,no,no,44098
+49,male,North NT,28.1,3,no,frequent,67195
+22,female,North NT,29.3,0,yes,no,236883
+35,female,North NT,35.1,1,no,occasional,35613
+47,male,Hong Kong Island,31.1,1,no,occasional,54796
+28,female,Hong Kong Island,25.2,0,no,frequent,17719
+48,male,South NT,23.8,0,yes,frequent,144508
+50,female,South NT,26.6,3,no,occasional,136823
+46,male,North NT,39.6,2,no,occasional,58446
+60,female,Kowloon,17.2,0,no,occasional,91361
+27,female,Kowloon,17.2,2,yes,occasional,102065
+57,female,North NT,21.9,0,no,occasional,80761
+50,female,Hong Kong Island,26.9,1,yes,occasional,168110
+63,female,Hong Kong Island,30.6,0,no,occasional,95821
+46,male,Kowloon,32.7,1,no,occasional,55114
+25,female,Hong Kong Island,23.1,3,no,occasional,29121
+30,male,Kowloon,24.7,0,no,occasional,22413
+45,male,Hong Kong Island,29.4,1,no,occasional,49167
+21,male,South NT,22.6,0,no,frequent,6498
+20,female,South NT,25.6,1,yes,occasional,118113
+27,female,Kowloon,23.9,0,no,occasional,22462
+59,female,South NT,26.5,3,no,occasional,96346
+32,male,South NT,27.8,1,yes,no,137482
+63,male,South NT,32.4,3,no,occasional,104448
+53,female,South NT,38.9,1,no,occasional,70465
+60,male,South NT,40.2,0,yes,occasional,337228
+60,female,Hong Kong Island,34.4,0,no,occasional,84992
+36,female,Hong Kong Island,21.4,2,yes,occasional,128399
+55,male,North NT,36.5,3,no,occasional,209152
+20,male,Hong Kong Island,31.9,1,no,no,13210
+40,male,South NT,18.5,1,yes,occasional,118021
+29,female,South NT,27.2,1,yes,occasional,130487
+55,male,South NT,33.1,3,no,occasional,80729
+28,male,South NT,31.8,3,no,occasional,30092
+27,male,North NT,32.6,2,no,frequent,23635
+19,female,North NT,39,1,no,frequent,14654
+23,female,Hong Kong Island,32.7,0,no,occasional,72054
+29,male,Hong Kong Island,26,0,no,occasional,18988
+25,female,Hong Kong Island,29,0,no,occasional,16312
+34,male,South NT,33.4,0,no,occasional,25034
+22,male,South NT,51.8,1,yes,occasional,308948
+18,male,South NT,40,0,no,no,7501
+32,female,South NT,28.8,1,no,occasional,29401
+21,female,North NT,33,2,no,occasional,21100
+35,male,South NT,23.3,3,yes,occasional,134400
+19,female,North NT,24,1,no,frequent,14361
+44,female,South NT,42.7,2,yes,occasional,321509
+64,female,South NT,35.4,0,no,frequent,95702
+30,female,Hong Kong Island,29.6,3,no,occasional,35274
+56,male,North NT,25.4,1,yes,occasional,180582
+19,female,North NT,27.7,0,yes,frequent,118248
+49,female,North NT,21.8,1,no,occasional,64420
+53,male,South NT,28.4,0,no,no,66277
+23,male,North NT,18.1,0,no,frequent,146611
+20,female,Kowloon,27.6,0,no,no,16251
+48,female,Kowloon,35.2,1,no,occasional,181312
+55,male,South NT,37.1,0,no,occasional,70453
+32,male,North NT,27.2,1,no,frequent,26727
+60,male,Kowloon,36.3,0,no,occasional,85328
+59,male,North NT,24.3,0,no,no,84046
+61,male,Kowloon,32.7,0,no,occasional,90141
+61,female,Hong Kong Island,26.9,0,no,occasional,89095
+18,male,South NT,33.5,0,no,frequent,3374
+24,male,Hong Kong Island,22.3,0,no,no,13330
+36,male,South NT,33.2,2,no,occasional,37399
+55,female,North NT,32.4,2,no,no,84905
+19,female,Hong Kong Island,33.6,2,yes,no,254447
+19,female,North NT,31.4,0,yes,no,257499
+27,male,Hong Kong Island,29.6,3,no,occasional,26627
+51,male,Kowloon,21.8,0,no,occasional,61588
+35,female,Kowloon,36.9,2,no,occasional,173218
+59,female,Kowloon,36,1,yes,occasional,332625
+41,female,Hong Kong Island,30.8,0,no,occasional,40778
+25,male,North NT,34.5,0,no,occasional,16652
+47,male,South NT,37.8,2,yes,no,308671
+40,female,North NT,27.9,3,no,occasional,53330
+58,female,South NT,21.5,0,no,occasional,80843
+63,male,South NT,40.3,0,no,no,93123
+61,female,North NT,30.4,0,no,occasional,91428
+21,male,Kowloon,19.5,3,no,occasional,24293
+22,male,South NT,33.1,0,no,occasional,7831
+30,male,South NT,34.5,0,yes,no,258381
+23,male,South NT,49.1,1,no,occasional,15110
+58,male,Kowloon,33.6,0,no,occasional,81635
+41,female,Kowloon,21.1,1,no,occasional,92388
+28,male,Hong Kong Island,23.2,2,no,frequent,22644
+19,male,Hong Kong Island,26.9,0,yes,occasional,111468
+59,male,South NT,40.4,1,yes,occasional,339349
+18,male,Kowloon,27,1,no,occasional,76448
+31,male,Hong Kong Island,19.2,0,no,occasional,20999
+18,female,South NT,37.6,0,no,frequent,94886
+41,male,Hong Kong Island,31,2,no,occasional,47085
+36,male,South NT,34.5,1,yes,occasional,267783
+46,male,North NT,19.3,0,no,frequent,47715
+42,male,South NT,34.7,2,no,occasional,47743
+51,female,North NT,35.7,3,no,occasional,76336
+55,male,Hong Kong Island,29.2,0,no,occasional,68402
+39,female,Hong Kong Island,32.2,0,no,frequent,34824
+22,male,South NT,26.2,0,no,frequent,7518
+24,male,Hong Kong Island,28.5,0,no,occasional,10883
+40,male,North NT,31.7,2,no,frequent,44141
+22,male,Hong Kong Island,34.4,0,yes,occasional,247931
+23,female,North NT,27.6,0,no,frequent,13998
+25,female,Kowloon,22.2,0,no,occasional,20183
+38,male,North NT,28.5,2,no,occasional,42543
+40,male,North NT,28.6,1,no,occasional,41526
+59,female,Hong Kong Island,34,2,no,occasional,255518
+18,male,South NT,33,1,no,occasional,9508
+19,female,Hong Kong Island,27.2,0,yes,no,119044
+46,female,Kowloon,33.2,1,no,frequent,56869
+19,female,North NT,28.1,0,yes,occasional,121204
+26,male,South NT,25.9,0,yes,no,118561
+18,male,Kowloon,24,0,yes,occasional,107588
+19,female,North NT,34.5,0,no,frequent,10643
+31,female,South NT,26,0,no,occasional,22467
+50,female,North NT,29.4,1,no,occasional,66443
+47,female,Kowloon,25.9,2,no,occasional,64730
+32,male,Hong Kong Island,29.7,3,no,no,36664
+58,male,North NT,35.9,2,yes,no,331976
+52,male,Hong Kong Island,28.9,1,no,occasional,65663
+18,male,South NT,52.1,0,no,no,8057
+50,male,Kowloon,31.7,1,yes,frequent,289111
+53,male,Kowloon,29.7,0,no,occasional,67977
+28,male,Kowloon,28.1,2,no,no,30147
+31,female,South NT,24.6,0,no,occasional,25069
+54,male,Kowloon,24.8,1,no,occasional,174787
+25,female,North NT,21.4,1,no,no,24715
+30,male,Hong Kong Island,34.5,0,yes,occasional,255158
+49,female,North NT,28.8,0,no,no,62529
+52,female,South NT,46.1,5,no,frequent,83743
+25,male,Kowloon,29.8,0,no,occasional,16024
+63,male,Hong Kong Island,38.7,3,no,no,106035
+37,male,Kowloon,29.1,2,no,occasional,41340
+26,male,Kowloon,26.7,3,no,frequent,27973
+49,male,Hong Kong Island,29.7,0,no,frequent,52049
+29,female,Hong Kong Island,24.8,0,no,no,22483
+39,male,South NT,31.1,2,no,occasional,42130
+55,female,North NT,31.5,2,no,occasional,83979
+60,female,South NT,31.4,0,yes,no,314853
+33,male,Hong Kong Island,28.7,4,no,occasional,38660
+52,male,North NT,26.2,0,yes,no,170152
+42,female,Hong Kong Island,37.2,0,no,occasional,41575
+41,male,Kowloon,22.8,1,no,no,47313
+62,female,South NT,25.1,0,yes,occasional,193406
+51,female,Hong Kong Island,33.6,1,no,frequent,64462
+27,male,Kowloon,31.9,3,no,occasional,30189
+20,female,South NT,31.1,2,no,occasional,18230
+26,female,North NT,21,0,no,occasional,20617
+62,female,North NT,32.4,3,no,frequent,104396
+56,male,North NT,32.5,0,yes,occasional,306239
+56,female,Hong Kong Island,24.1,0,no,occasional,75742
+34,female,South NT,27.1,0,no,occasional,26908
+60,female,Hong Kong Island,29.8,0,no,occasional,84834
+50,female,Hong Kong Island,30.5,2,no,no,70386
+22,female,Kowloon,39.3,0,no,frequent,14310
+54,female,Hong Kong Island,29.6,3,no,occasional,83277
+18,male,Kowloon,22.4,0,no,frequent,7245
+62,male,Kowloon,30.8,0,yes,occasional,318020
+50,male,Kowloon,26.2,1,no,occasional,65407
+58,female,Kowloon,31.1,2,no,occasional,91535
+18,female,Kowloon,34.9,0,no,occasional,12558
+63,male,Hong Kong Island,32,0,no,no,93490
+33,female,Kowloon,35.2,3,no,no,45791
+40,male,South NT,23.9,2,no,no,45947
+58,male,North NT,27.3,0,no,occasional,79824
+30,female,Kowloon,26.6,0,no,occasional,26530
+19,male,South NT,44.1,0,yes,occasional,275539
+56,female,North NT,32.5,2,no,occasional,86161
+44,female,Kowloon,35.9,0,no,frequent,84925
+51,female,South NT,20.4,1,no,occasional,67668
+25,male,South NT,33,4,no,frequent,27424
+46,male,South NT,25.6,1,no,no,54161
+49,female,North NT,22.1,2,no,no,70848
+60,male,Hong Kong Island,31.7,0,yes,no,367311
+18,male,Kowloon,31.1,0,yes,frequent,231439
+29,male,Kowloon,22.1,0,yes,occasional,110215
+56,male,South NT,32.6,4,no,no,90482
+20,female,Hong Kong Island,32.6,0,no,occasional,9965
+42,male,South NT,25.4,1,yes,occasional,263999
+36,female,North NT,24.7,0,no,no,36227
+21,female,Hong Kong Island,25.8,1,no,frequent,14073
+46,female,Kowloon,34.3,0,yes,occasional,293305
+36,female,South NT,28.7,1,no,occasional,36256
+22,female,South NT,28.2,0,no,frequent,11028
+27,male,Kowloon,18.1,3,no,occasional,30954
+27,female,North NT,29.3,3,no,no,131298
+49,female,Kowloon,23.1,3,yes,occasional,165333
+22,female,Hong Kong Island,35.2,0,no,occasional,12508
+25,male,Hong Kong Island,23.1,5,no,occasional,32944
+18,female,Kowloon,21,0,yes,frequent,95871
+25,female,Hong Kong Island,29.6,0,yes,frequent,232721
+26,female,South NT,28.8,1,no,no,22770
+51,female,Kowloon,33.8,2,yes,occasional,311142
+41,male,South NT,32.4,0,no,occasional,38509
+43,male,South NT,24.9,5,no,frequent,96900
+52,female,North NT,31.1,2,no,frequent,73798
+40,male,South NT,40.9,0,no,occasional,35567
+37,female,Kowloon,30.1,0,yes,occasional,257156
+45,female,North NT,27.1,1,no,frequent,193762
+35,male,Kowloon,36,1,yes,frequent,274267
+46,female,South NT,27.5,1,no,frequent,52657
+22,male,Kowloon,30.6,0,no,occasional,14755
+18,female,Kowloon,24.5,0,no,frequent,10918
+50,male,Hong Kong Island,26,0,no,frequent,54253
+43,male,South NT,37.4,2,yes,occasional,294028
+46,male,South NT,43.3,3,no,frequent,57654
+25,female,North NT,33.2,0,no,occasional,18681
+22,male,North NT,30.2,1,no,occasional,17436
+39,female,North NT,23.5,5,no,occasional,59736
+46,male,Hong Kong Island,21.1,0,no,occasional,48106
+23,female,South NT,38.2,2,no,no,23974
+55,male,South NT,32,1,no,frequent,71618
+31,male,North NT,33.8,3,yes,frequent,267013
+53,male,Kowloon,25.2,2,no,occasional,77575
+24,female,Kowloon,24,0,no,occasional,19580
+18,male,South NT,32.5,0,no,occasional,6502
+37,female,South NT,29.5,2,no,occasional,41924
+46,female,North NT,26.6,0,no,no,55618
+56,female,Kowloon,31.5,3,no,occasional,91223
+43,female,South NT,44.9,0,yes,occasional,318802
+27,male,South NT,31.6,0,no,no,16963
+54,male,Hong Kong Island,23.9,3,yes,occasional,176017
+41,male,South NT,39.6,0,no,frequent,35596
+18,male,Kowloon,29.7,3,no,occasional,20536
+19,male,North NT,24.5,1,no,no,15368
+55,female,Hong Kong Island,28.4,2,no,occasional,80867
+62,female,South NT,38.4,0,no,occasional,90949
+24,female,South NT,38.8,0,no,occasional,13600
+42,male,South NT,23.4,0,yes,occasional,134831
+28,female,Kowloon,16.6,0,no,occasional,22589
+30,male,South NT,43.1,2,no,occasional,28702
+21,female,Kowloon,16.1,1,no,occasional,18895
+31,female,North NT,21.2,0,no,frequent,24291
+59,male,Hong Kong Island,36.1,0,no,occasional,150503
+23,male,North NT,26.7,1,no,frequent,15189
+28,female,North NT,25.7,3,no,frequent,32979
+44,female,South NT,37.3,0,yes,occasional,338873
+18,male,South NT,33.2,0,no,occasional,5739
+40,female,South NT,21.4,2,yes,occasional,133452
+18,female,Kowloon,29.6,0,no,occasional,12243
+46,female,Kowloon,47,2,no,no,65473
+18,female,South NT,33.3,0,no,frequent,76100
+48,female,North NT,27.2,4,no,occasional,73574
+32,female,South NT,43.6,0,no,frequent,23623
+18,female,South NT,35.7,0,no,occasional,10285
+62,female,Hong Kong Island,38.1,0,no,no,93710
+32,male,Hong Kong Island,34.4,2,no,occasional,29931
+18,female,South NT,30.9,2,no,occasional,17537
+26,female,Kowloon,28.8,2,no,frequent,27434
+45,male,Hong Kong Island,26.7,3,no,occasional,57338
+55,female,Kowloon,31.3,1,no,no,82358
+59,female,South NT,34.1,0,no,no,85314
+60,male,South NT,25.1,0,no,frequent,80886
+44,female,North NT,35.7,1,no,occasional,53910
+37,male,Kowloon,22,3,no,occasional,45393
+34,male,Hong Kong Island,41.8,1,no,no,30875
+38,male,North NT,26.7,2,no,occasional,43959
+51,female,Hong Kong Island,25,1,no,occasional,66393
+28,male,North NT,32.6,0,no,occasional,136465
+47,female,Kowloon,25.4,1,yes,occasional,160086
+26,male,South NT,45.4,1,no,no,19761
+25,male,Hong Kong Island,28.4,3,yes,occasional,137376
+20,male,Hong Kong Island,21.4,1,no,frequent,9620
+19,female,Hong Kong Island,27.8,0,no,no,12096
+64,male,North NT,23.5,1,no,occasional,209985
+60,female,Kowloon,26.9,0,no,occasional,88915
+24,male,North NT,22.4,0,no,occasional,13975
+33,male,Kowloon,24,0,yes,occasional,122570
+25,female,North NT,25.5,2,no,occasional,27180
+23,female,North NT,33.8,3,no,occasional,29929
+27,male,South NT,29.9,1,yes,occasional,242033
+52,female,North NT,36.8,2,no,occasional,230866
+48,male,North NT,36.1,1,no,frequent,194769
+51,female,Hong Kong Island,38.3,1,no,occasional,67526
+19,female,South NT,32.5,0,yes,frequent,236297
+18,male,South NT,24.9,2,no,occasional,13872
+47,female,Hong Kong Island,23.5,1,no,frequent,179586
+45,male,North NT,29.9,2,no,frequent,54490
+34,female,Kowloon,30.7,1,yes,occasional,262482
+20,male,North NT,34.4,3,yes,occasional,260096
+33,female,Hong Kong Island,32.2,0,yes,occasional,257456
+19,male,North NT,24,0,no,occasional,10357
+30,female,Kowloon,20.8,1,no,occasional,31777
+52,male,North NT,33.8,3,yes,occasional,416759
+37,male,Kowloon,33.6,1,yes,frequent,268599
+53,male,South NT,40.8,0,no,occasional,62624
+24,male,North NT,27.4,2,no,no,24642
+33,female,Kowloon,21.1,1,no,no,37310
+37,male,South NT,45.2,3,no,occasional,42614
+38,male,Hong Kong Island,33.4,2,no,occasional,40095
+28,male,Kowloon,34.3,0,no,no,22100
+26,male,North NT,32.8,1,no,no,22315
+18,male,Kowloon,24.3,0,no,occasional,10888
+38,female,Hong Kong Island,26.7,3,no,occasional,47620
+28,female,South NT,36.6,1,no,no,26344
+44,female,North NT,27,0,no,occasional,48185
+41,male,Kowloon,29.7,3,yes,no,276937
+32,male,South NT,28.9,1,no,no,27889
+53,male,North NT,29.9,1,no,occasional,71334
+27,male,North NT,27.9,0,yes,frequent,124168
+49,male,South NT,34.6,0,no,occasional,54687
+48,male,Hong Kong Island,33.6,3,no,occasional,63465
+56,female,South NT,36.2,2,no,occasional,83508
+39,male,Hong Kong Island,34.7,2,yes,frequent,276247
+23,female,North NT,21.9,2,no,occasional,98491
+43,female,Kowloon,18.9,2,yes,occasional,137578
+44,male,Kowloon,21.5,2,no,frequent,54029
+19,male,North NT,25.4,1,yes,frequent,110824
+31,female,Hong Kong Island,28.4,0,no,occasional,22937
+20,female,North NT,21.8,0,yes,occasional,99000
+44,female,North NT,25.8,0,no,frequent,47802
+21,female,South NT,21.1,2,no,occasional,19750
+28,female,Kowloon,23.6,1,no,occasional,159251
+34,male,North NT,27.1,1,yes,occasional,137129
+21,female,Hong Kong Island,16.8,1,no,frequent,13097
+23,male,South NT,31.8,0,no,occasional,9514
+51,male,Hong Kong Island,38.4,1,no,occasional,63562
+19,male,Hong Kong Island,19.6,0,no,occasional,5272
+57,male,Kowloon,39.8,0,no,no,80012
+58,female,Hong Kong Island,28.4,0,no,frequent,77944
+59,female,Hong Kong Island,26.2,0,no,occasional,83277
+33,female,Hong Kong Island,31.8,2,no,no,36785
+31,male,South NT,37.2,2,no,occasional,29401
+49,male,Kowloon,29.3,1,no,frequent,60018
+55,male,North NT,26.5,0,no,no,73265
+31,male,North NT,25.2,1,no,occasional,26359
+58,female,North NT,27.6,0,no,frequent,81276
+40,male,Kowloon,33.4,1,no,occasional,42252
+57,female,North NT,29.4,0,no,no,82652
+37,female,North NT,27.2,3,no,frequent,46359
+20,female,South NT,31.9,0,no,no,13040
+26,female,South NT,28.9,1,no,frequent,19451
+50,male,Kowloon,30.7,0,yes,occasional,286555
+40,male,Hong Kong Island,29.2,2,no,occasional,42372
+29,male,North NT,28.6,2,no,no,126301
+35,male,Hong Kong Island,27.8,3,no,no,40725
+53,male,North NT,23.6,0,no,occasional,66236
+58,female,Hong Kong Island,32.4,0,no,occasional,79858
+45,male,Kowloon,23,2,no,frequent,55543
+23,male,Kowloon,22.6,0,no,occasional,15311
+57,male,Hong Kong Island,42.6,1,no,no,80760
+63,male,Kowloon,30.8,0,no,occasional,94160
+41,female,North NT,32.4,0,no,frequent,41510
+43,male,Hong Kong Island,29,1,no,no,47700
+19,male,North NT,22,0,no,occasional,7469
+62,female,Kowloon,30.6,0,no,no,97569
+30,male,Kowloon,36.8,3,no,occasional,34062
+60,female,North NT,24.8,0,no,no,202226
+29,male,South NT,36.6,2,no,occasional,24456
+18,female,South NT,39.1,0,no,no,10487
+36,female,Kowloon,19.2,0,no,occasional,34618
+52,female,Hong Kong Island,36.7,0,no,occasional,64119
+63,male,North NT,27.7,0,no,occasional,92478
+22,female,North NT,20.2,3,no,no,29335
+64,male,South NT,32.7,0,yes,occasional,326738
+34,female,Kowloon,22.8,0,no,occasional,31831
+18,male,Kowloon,32.8,0,yes,occasional,239065
+25,male,South NT,44.9,2,yes,frequent,290630
+51,male,South NT,32.2,3,no,occasional,72890
+30,male,Kowloon,26.4,1,no,occasional,27682
+58,female,North NT,35.8,0,no,occasional,81924
+28,female,Kowloon,27.7,1,no,occasional,29321
+47,female,Hong Kong Island,35.4,1,no,frequent,55769
+64,male,South NT,39.7,0,no,occasional,93729
+27,female,South NT,24,0,yes,occasional,113461
+59,male,North NT,28,0,no,occasional,82014
+41,male,North NT,33.6,2,no,frequent,46603
+54,female,North NT,24,3,no,frequent,83187
+48,female,North NT,40.6,4,no,frequent,73093
+39,female,Hong Kong Island,31.9,1,no,frequent,39601
+34,female,South NT,26,1,no,occasional,32029
+19,male,Hong Kong Island,29.8,0,no,frequent,4276
+53,female,Kowloon,31.6,2,no,occasional,200866
+62,male,Kowloon,26.1,0,yes,frequent,191837
+51,female,Hong Kong Island,19.4,0,no,occasional,63612
+46,male,Kowloon,23.6,3,no,occasional,64717
+47,male,Hong Kong Island,29.1,3,yes,occasional,174078
+19,male,North NT,19.4,2,no,occasional,18185
+43,male,Hong Kong Island,31.5,2,no,no,51709
+22,male,Hong Kong Island,34.1,,no,occasional,20174
+34,male,South NT,24.1,2,yes,occasional,131490
+54,male,South NT,20.2,2,no,occasional,74283
+50,female,South NT,22.4,2,no,no,69832
+41,male,North NT,27.7,1,no,occasional,43128
+23,female,Kowloon,35.9,2,yes,occasional,266316
+46,female,South NT,27.1,1,no,frequent,53501
+52,female,Hong Kong Island,44,3,no,occasional,76430
+42,male,South NT,23.7,0,no,no,40872
+38,male,Kowloon,15.6,2,no,occasional,44971
+55,female,Kowloon,24.8,3,no,frequent,86697
+32,female,Kowloon,19.3,0,no,occasional,30052
+19,male,Hong Kong Island,27.8,1,no,frequent,8853
+22,female,Hong Kong Island,25.9,0,no,occasional,13648
+47,male,Kowloon,26.9,4,no,occasional,70458
+48,female,North NT,27.6,1,no,occasional,62504
+51,male,South NT,42.2,2,yes,occasional,328361
+54,male,South NT,33.6,2,yes,frequent,305153
+29,male,North NT,32.2,2,no,occasional,134788
+61,female,North NT,27.8,0,yes,occasional,201608
+43,female,South NT,34.6,1,no,no,51075
+63,male,North NT,40.5,3,no,occasional,106147
+19,female,North NT,29.3,0,no,occasional,13594
+35,male,Hong Kong Island,29.9,1,no,frequent,28605
+62,female,Hong Kong Island,24.2,0,no,occasional,91272
+44,female,North NT,37.9,0,yes,no,300638
+21,male,Kowloon,24.5,2,no,occasional,21063
+44,female,Hong Kong Island,26.7,1,no,occasional,50465
+43,female,Hong Kong Island,29.3,1,no,frequent,46373
+27,female,North NT,20.4,0,no,no,22881
+53,male,Hong Kong Island,27.4,3,no,occasional,77770
+45,female,South NT,35.6,2,no,occasional,56616
+52,female,Hong Kong Island,30.1,0,no,no,66708
+29,male,Kowloon,21.7,3,no,occasional,33741
+44,male,Kowloon,20.6,3,no,occasional,60341
+46,male,South NT,36.9,2,no,occasional,56606
+26,male,Kowloon,31.4,1,no,no,23819
+63,female,North NT,25.4,0,no,occasional,97207
+39,female,Kowloon,24.3,3,yes,frequent,147113
+51,male,North NT,24,2,yes,occasional,165153
+46,female,Hong Kong Island,29.6,2,no,frequent,57664
+28,female,Hong Kong Island,32.3,0,no,no,21542
+18,female,South NT,36.9,0,no,occasional,9632
+35,female,North NT,32.9,3,yes,occasional,278193
+55,female,North NT,25.8,0,no,occasional,75822
+33,female,North NT,41.8,3,no,no,43982
+55,male,Hong Kong Island,20.9,1,no,frequent,70996
+19,male,North NT,26,2,no,occasional,155418
+44,female,Kowloon,19,1,yes,occasional,135645
+19,female,Hong Kong Island,27.8,1,no,frequent,11678
+26,male,North NT,30.2,2,no,occasional,23330
+61,female,Kowloon,35.3,0,no,frequent,91251
+31,male,Hong Kong Island,35.7,2,yes,frequent,266112
+40,female,South NT,35.5,0,no,occasional,37582
+24,female,North NT,28.8,0,no,occasional,18916
+35,female,North NT,27,0,yes,no,141619
+54,female,South NT,30.8,1,no,no,76081
+34,male,Kowloon,20.6,0,no,occasional,28827
+29,male,Kowloon,27.9,1,no,no,28107
+33,male,Hong Kong Island,41.2,5,no,occasional,45474
+18,female,South NT,36.1,1,no,no,14598
+57,male,South NT,41.3,1,yes,occasional,338042
+41,male,Hong Kong Island,28.2,1,no,frequent,39614
+54,female,Kowloon,32,0,no,occasional,72546
+59,female,North NT,23,0,yes,occasional,176231
+46,female,South NT,32.7,1,no,occasional,54273
+57,female,Hong Kong Island,36.9,2,no,no,87827
+18,female,South NT,30.6,0,no,occasional,8003
+62,male,South NT,37.6,0,no,occasional,88912
+34,female,Kowloon,32.5,1,no,occasional,36376
+47,male,South NT,35.6,0,yes,frequent,287366
+25,male,Kowloon,25,0,no,occasional,16911
+43,male,Kowloon,34.3,1,yes,frequent,283095
+32,male,South NT,45.8,2,no,occasional,29213
+39,male,North NT,25.6,1,no,frequent,38381
+18,male,Kowloon,21,0,yes,frequent,91399
+18,male,Kowloon,23,0,no,occasional,8827
+29,female,North NT,19.6,2,no,occasional,30407
+49,female,Hong Kong Island,26.5,1,no,frequent,177993
+58,female,South NT,38.4,0,no,frequent,78581
+18,female,Kowloon,39.6,0,no,occasional,12232
+39,female,North NT,31.2,2,no,occasional,46798
+54,male,North NT,29.3,0,no,occasional,167980
+63,male,North NT,21,1,no,occasional,96489
+51,female,South NT,37.3,0,yes,occasional,307851
+50,female,South NT,45.4,1,no,occasional,63697
+52,female,South NT,24.5,2,yes,occasional,169850
+30,male,North NT,21.9,2,yes,no,121202
+45,female,North NT,35.1,0,no,occasional,50339
+24,male,South NT,39.6,0,yes,frequent,262354
+19,female,North NT,23.9,1,no,frequent,14869
+57,male,North NT,30.3,0,no,occasional,77089
+41,female,North NT,31.8,2,no,occasional,51974
+50,male,South NT,44.1,1,no,occasional,59585
+35,female,Hong Kong Island,34.2,1,no,frequent,32056
+58,female,Kowloon,31.9,0,no,no,86883
+33,male,South NT,32.4,5,no,no,46370
+27,male,South NT,41.4,0,yes,occasional,274197
+61,male,Hong Kong Island,35.5,3,no,frequent,191581
+40,female,Hong Kong Island,28,4,no,occasional,108699
+48,male,North NT,39.9,2,yes,frequent,315572
+53,female,South NT,36.9,3,no,no,142389
+40,female,South NT,32.4,3,no,frequent,48854
+50,male,South NT,36.5,1,no,frequent,58858
+35,male,North NT,33.7,2,no,no,40040
+34,female,Hong Kong Island,37.4,3,no,frequent,38434
+59,male,Hong Kong Island,26.8,1,no,occasional,82608
+30,female,North NT,18.7,3,no,occasional,37862
+63,female,Kowloon,20.9,0,no,occasional,98551
+52,male,Kowloon,32.1,0,no,no,67540
+54,male,Kowloon,32.1,0,no,frequent,68913
+63,female,Hong Kong Island,37,0,yes,occasional,337990
+43,male,Kowloon,25.3,0,no,occasional,44297
+25,female,Kowloon,40.2,0,no,no,124681
+45,male,Kowloon,21.8,0,yes,no,245007
+26,female,North NT,21.9,0,no,occasional,19077
+48,female,South NT,30.4,0,no,occasional,55214
+19,female,North NT,29.5,0,yes,frequent,228322
+33,male,South NT,29.5,0,no,occasional,22890
+53,female,Hong Kong Island,34.6,2,no,occasional,75674
+47,female,South NT,26.8,0,yes,no,161308
+21,male,South NT,34.4,0,no,no,10150
+52,male,South NT,33,0,no,no,63778
+54,male,Hong Kong Island,38.8,1,no,occasional,70380
+19,male,North NT,20.7,0,no,no,10976
+36,male,Hong Kong Island,32.2,2,yes,occasional,267203
+64,female,North NT,26.2,0,yes,frequent,201245
+48,male,Hong Kong Island,29.4,2,no,occasional,60063
+20,male,North NT,29.2,0,no,frequent,7388
+27,female,North NT,19.4,3,yes,frequent,110551
+45,female,Hong Kong Island,30.3,2,no,frequent,55160
+39,male,Hong Kong Island,28.9,4,no,occasional,49563
+24,female,South NT,32.7,0,no,occasional,15240
+26,male,Kowloon,28.7,0,no,occasional,16824
+19,male,Hong Kong Island,33.8,0,yes,no,243281
+60,female,South NT,23.5,0,no,no,88364
+33,male,Kowloon,34.6,0,no,frequent,82546
+33,male,North NT,26.8,2,no,frequent,32490
+63,female,Hong Kong Island,30.9,2,yes,occasional,328785
+52,female,Hong Kong Island,32.2,2,no,no,74891
+21,male,North NT,30,0,no,occasional,11560
+32,female,North NT,28.6,0,no,no,29723
+20,female,Hong Kong Island,36.3,5,no,occasional,30254
+57,male,South NT,26.8,1,no,no,80054
+32,male,Kowloon,36.1,1,no,occasional,30424
+43,female,Kowloon,35.1,2,no,frequent,129668
+56,female,North NT,24.9,0,no,occasional,77235
+58,male,North NT,33.7,0,no,occasional,78756
+29,female,North NT,25.4,0,no,frequent,21795
+33,female,North NT,34.3,0,yes,occasional,384279
+37,male,North NT,26.8,2,no,occasional,41891
+50,male,Hong Kong Island,34.9,0,no,occasional,56941
+23,female,Hong Kong Island,27.3,0,no,occasional,88421
+28,female,North NT,34.2,0,no,frequent,20405
+64,female,South NT,21.9,0,yes,no,188980
+47,female,North NT,32.8,3,no,occasional,69711
+57,female,North NT,30,0,yes,occasional,303510
+24,female,Hong Kong Island,29.4,3,no,occasional,26055
+61,female,North NT,20,0,no,no,93052
+63,male,Kowloon,36.1,0,no,occasional,94101
+61,female,South NT,24.4,0,no,occasional,168019
+41,male,Kowloon,28.9,5,no,occasional,61012
+43,female,Hong Kong Island,33.2,3,no,occasional,58275
+49,female,South NT,36.1,3,no,frequent,67911
+36,female,Hong Kong Island,24.6,1,no,occasional,36245
+23,male,South NT,40.7,0,no,occasional,11632
+44,female,Hong Kong Island,23.9,1,no,no,52617
+62,male,Hong Kong Island,36.1,0,no,occasional,88472
+21,female,Kowloon,21,0,no,no,17730
+36,male,North NT,27.3,3,no,occasional,43754
+48,female,South NT,25.2,3,yes,frequent,165090
+40,female,South NT,29.1,1,no,occasional,41859
+35,female,Kowloon,25,0,no,occasional,35508
+18,male,South NT,32.5,0,no,occasional,5385
+19,male,North NT,28.4,0,yes,occasional,117934
+36,male,Kowloon,27.8,3,no,no,47190
+18,male,Kowloon,21.9,0,no,occasional,10486
+50,female,Kowloon,25.8,1,no,occasional,68344
+28,male,Hong Kong Island,35.9,1,no,occasional,21398
+30,male,North NT,23.4,1,no,occasional,25023
+20,female,South NT,23.3,0,yes,no,182049
+61,female,South NT,29.1,3,yes,occasional,214090
+20,male,Hong Kong Island,26.6,0,yes,occasional,109662
+18,male,South NT,29.4,0,no,occasional,4543
+51,male,Hong Kong Island,24.7,0,no,occasional,58254
+42,female,North NT,34.9,1,no,occasional,49657
+20,male,South NT,32.1,0,no,occasional,7691
+23,female,North NT,27.1,0,yes,occasional,124723
+38,male,Hong Kong Island,18.7,0,yes,frequent,105826
+31,female,Kowloon,36.8,1,yes,occasional,408041
+18,female,Kowloon,27,0,no,occasional,14180
+34,female,North NT,29.7,1,yes,frequent,302612
+62,male,South NT,39.4,0,no,frequent,85976
+45,male,Kowloon,38.7,0,no,no,51421
+48,female,Kowloon,26.3,1,no,no,66030
+64,male,North NT,36.8,0,no,no,99226
+38,male,North NT,19.2,1,no,occasional,37781
+34,female,Hong Kong Island,26.4,1,no,no,34067
+55,female,Hong Kong Island,36.3,0,no,occasional,72382
+22,male,North NT,27.6,1,no,occasional,14865
+29,female,Kowloon,21,1,yes,occasional,113661
+50,female,Hong Kong Island,33,4,no,occasional,75182
+41,female,North NT,27.2,1,no,no,49394
+53,female,South NT,22.1,1,yes,occasional,159593
+43,female,North NT,26.1,0,yes,occasional,149523
+33,male,South NT,34.5,1,yes,occasional,265979
+56,male,Hong Kong Island,39.2,0,no,no,74102
+51,female,South NT,36.6,1,no,no,68670
+26,female,South NT,28.8,2,no,no,27645
+37,male,South NT,35.6,0,no,frequent,129939
+41,female,South NT,34.9,1,no,occasional,46022
+25,male,North NT,25.5,4,no,occasional,32394
+29,female,Hong Kong Island,24,2,no,frequent,27298
+41,female,Hong Kong Island,31.8,3,no,occasional,53162
+32,male,North NT,27.4,4,yes,occasional,146593
+61,female,Kowloon,21.4,0,no,occasional,91658
+38,female,Hong Kong Island,26.3,0,no,occasional,35263
+18,female,South NT,23,1,no,no,14881
+30,female,Kowloon,21.7,1,no,occasional,31816
+19,male,Hong Kong Island,26.4,0,no,occasional,7409
+55,male,Kowloon,28.3,0,no,frequent,71572
+54,female,North NT,26.5,1,no,no,78373
+25,female,South NT,31.6,1,no,frequent,122997
+47,male,Kowloon,18.5,1,no,occasional,56737
+41,female,Kowloon,32.5,3,no,occasional,55902
+53,male,South NT,19.8,0,yes,no,147692
+56,male,South NT,33.4,0,no,no,74078
+30,female,Hong Kong Island,27,0,no,occasional,21705
+44,female,South NT,29.2,2,no,frequent,53375
+61,male,North NT,31.5,2,no,occasional,96238
+19,female,North NT,27.2,3,no,occasional,129035
+19,female,Hong Kong Island,27.3,5,no,occasional,30434
+57,female,Kowloon,21.1,0,no,occasional,82905
+59,female,Hong Kong Island,30.8,3,no,occasional,95908
+46,female,Hong Kong Island,28.1,2,no,occasional,59004
+26,male,South NT,28.6,1,no,frequent,15643
+19,male,North NT,34.4,0,no,no,11093
+33,female,South NT,27.7,1,no,frequent,29138
+49,male,Hong Kong Island,30.3,0,yes,frequent,273570
+31,female,North NT,31.7,2,no,no,36661
+55,male,North NT,31.7,,no,no,73937
+59,male,Kowloon,24.8,1,no,occasional,86693
+45,male,North NT,20.2,0,no,no,49683
+36,male,South NT,33.3,0,yes,no,263781
+37,female,Hong Kong Island,33.7,2,yes,no,278559
+48,female,Kowloon,26.1,1,no,no,65334
+58,female,Kowloon,31.3,1,no,no,90869
+37,female,Kowloon,24.3,1,yes,occasional,140338
+50,male,South NT,24.2,0,no,no,58852
+23,male,Hong Kong Island,33.2,0,no,occasional,11292
+52,male,South NT,41,2,yes,occasional,328161
+18,male,South NT,28.3,1,no,no,11488
+47,male,South NT,24.8,1,yes,frequent,149617
+34,male,Hong Kong Island,26.4,2,no,frequent,77852
+62,male,North NT,28.7,0,no,occasional,91222
+21,male,Kowloon,26.1,0,no,occasional,12891
+19,female,Hong Kong Island,31.8,0,no,no,11676
+54,male,North NT,32.4,1,no,occasional,74355
+30,male,North NT,27.9,3,yes,occasional,142256
+56,male,Hong Kong Island,38.5,0,no,no,73688
+24,female,North NT,32.1,0,no,occasional,17955
